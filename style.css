@@ -1,0 +1,45 @@
+h1{
+align-items: center;
+display: flex;
+justify-content: center;
+font-size: 3em;
+color: red;
+}
+
+h2{
+align-items: center;
+display: flex;
+justify-content: center;
+color: dark;
+}
+
+body{
+background-color: pink;
+}
+
+
+p{
+align-items: center;
+display: flex;
+justify-content: center;
+}
+
+p2{
+align-items: center;
+display: flex;
+justify-content: center;
+}
+
+img{
+align-items: center;
+display: flex;
+justify-content: center;
+border-style: outset;
+border-radius: 10px;
+border-width: 10px;
+padding: 5px;
+background-color: gold;
+width: 35em;
+height: 25em;
+image-resolution: 10px;  
+}	
